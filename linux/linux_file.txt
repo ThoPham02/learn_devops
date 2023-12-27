@@ -1,0 +1,17 @@
+Các thư mục trong thư mục gốc của Linux:
+    - bin: lưu các tệp nhị phân cần cho hệ thống, các tệp thực thi và công cụ
+    - boot: Các tệp cần để khởi động hệ thống
+    - dev: Thông tin thiết bị, các con trỏ tới ổ đĩa
+    - etc: Chứa phần lớn các tệp cấu hình
+    - home: Tệp và thư mục của người dùng
+    - lib: Nơi chứa các thư viện dùng chung cho các tệp nhị phân và tệp thực thi ở "bin"
+    - media: Nơi có thể tìm thấy các thiết bị di động
+    - mnt: Điểm gắn kết tạm thời
+    - opt: Gói phần mềm tùy chọn
+    - proc: Kernel và thông tin về process
+    - root: Thư mục home của root
+    - run: Placeholder cho trạng thái của ứng dụng
+    - sbin: sudo bin _ Nơi dành cho người dùng có đặc quyền nâng cao trên hệ thống
+    - tmp: Tệp tạm thời
+    - usr: người dùng. Nếu người dùng cài đặt gói phần mềm thì nó thường được lưu ở "/usr/bin"
+    - var: Nơi lưu trữ các tệp logs của các ứng dụng.

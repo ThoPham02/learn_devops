@@ -1,0 +1,38 @@
+Các câu lệnh Linux cơ bản:
+    - pwd: Tìm đường dẫn của thư mục
+    - cd: Điều hướng đến thư mục
+    - ls: list nội dung trong thư mục
+    - cat: liệt kê nội dung tệp
+    - cp: copy từ thư mục hiện tại đến thư mục khác (cp sourcePath distPath)
+    - mv: di chuyển tệp
+    - mkdir: tạo thư mục
+    - rmdir: xóa thư mục trống
+    - rm: xóa thư mục
+    - touch: tạo file trống mới
+    - locate: định vị tệp
+    - find: định vị tệp trong folder nhất định
+    - grep tìm kiếm qua tất cả văn bản
+    - sudo: thực hiện các lệnh dưới quyền root
+    - df: báo cáo về việc sử dụng dung lượng ổ đĩa
+    - head: xem các dòng đầu tiên của bất cứ file nào
+    - tail: hiển thị 10 dòng cuối cùng
+    - diff: so sánh nội dung 2 file
+    - tar: 
+    - chmod: thay đổi quyền đọc, ghi, thực thi
+    - chown: thay đổi quyền sở hữu tệp
+    - jobs: hiển thị các công việc hiện tại cùng trạng thái
+    - kill: tắt chương trình 
+    - ping: kiểm tra trạng thái kết nối máy chủ
+    - wget: tải xuống tệp từ internet
+    - uname: thông tin chi tiết về hệ thống
+    - top: hiển thị danh sách các tiến trình đang chạy và lượng CPU
+    - history: xem lại các lệnh đã nhập
+    - man: học cách sử dụng các lệnh Linux
+    - echo: truyền 1 số dữ liệu cho tệp chỉ định
+    - zip: nén tệp
+    - unzip: giải nén tệp
+    - hostname: tên host/network của mình
+    - useradd: tạo người dùng mới
+    - passwd: thêm mật khẩu
+    - userdel: xóa người dùng
+
